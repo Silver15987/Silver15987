@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Research**
 
-- 📝 I regularly write articles on [https://silver15987.medium.com/](medium)
+- 📝 I regularly write articles on [medium]([medium](https://silver15987.medium.com/))
 
 - 💬 Ask me about **malware, penetration testing, CTF**
 
