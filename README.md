@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/silver15987" target="blank"><img src="https://img.shields.io/twitter/follow/silver15987?logo=twitter&style=for-the-badge" alt="silver15987" /></a> </p>
 
-- 🔭 I’m currently working on **IoT Research, Drones, Computer Vision**
+- 🔭 I’m currently working on **Malware Analysis and Threat Resaerch, Drones and Computer Vision**
 
-- 🌱 I’m currently learning **embedded system development, Systems and Signals**
+- 🌱 I’m currently learning **embedded system development and Memory Forensics*
 
-- 👯 I’m looking to collaborate on **Research**
+- 👯 I’m looking to collaborate on **Security Research**
 
 - 📝 I regularly write articles on [medium](https://silver15987.medium.com/)
 
-- 💬 Ask me about **malware, penetration testing, CTF**
+- 💬 Ask me about **malware, penetration testing, CTF, AI**
 
 - 📫 How to reach me **pratiman9jhin@outlook.com**
 
