@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratiman Joshi</h1>
-<h3 align="center">An Information Security Researcher, AI/ ML enthusiast and an overall tech lover :)</h3>
+<h3 align="center">Currently a CRM Dev an enthusiastic Information Security Researcher, AI/ ML enthusiast, and an overall tech lover :)</h3>
 
 [ ![Silver15987](https://www.hackthebox.eu/badge/image/181026)](https://www.hackthebox.eu/home/users/profile/181026)
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/silver15987" target="blank"><img src="https://img.shields.io/twitter/follow/silver15987?logo=twitter&style=for-the-badge" alt="silver15987" /></a> </p>
 
-- 🔭 I’m currently working on **Malware Analysis and Threat Resaerch, Drones and Computer Vision**
+- 🔭 I’m currently working on **Malware Analysis and Threat Research, Drones and Computer Vision**
 
 - 🌱 I’m currently learning **embedded system development and Memory Forensics*
 
